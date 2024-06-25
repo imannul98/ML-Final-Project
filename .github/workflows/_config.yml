@@ -1,0 +1,8 @@
+source: project-proposal-ml
+theme: jekyll-theme-minimal
+gist:
+  noscript: false
+GFM:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+
